@@ -1,0 +1,6 @@
+*.bin
+*.elf
+*.z64
+*.[oad]
+*.bin
+comp/comp
